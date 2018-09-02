@@ -3,7 +3,6 @@ collision.py -- collision check functions
 
 """
 
-from box import Box
 
 def box_vs_box(box1, box2):
     """
