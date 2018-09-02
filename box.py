@@ -3,7 +3,6 @@ box.py -- a box
 
 """
 
-from point import Point
 
 class Box:
     """
